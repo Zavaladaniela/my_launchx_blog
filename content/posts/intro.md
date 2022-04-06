@@ -1,10 +1,8 @@
 ---
-title: "Mis expectativas"
+title: "La cultura en el desarrollo de software"
 date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
-
-La cultura en el desarrollo de software
 
 Mi historia en cuanto al ambito de la programacion empezo a una edad muy temprana y desde entonces he conocido varias personas que solo se quedan como programadores y algunas otras que crecen hasta ser considerados desarrolladores. Creo (y por experiencia propia lo confirmo) que todo buen desarrollador nacio de ser programador y para poder llegar hasta ese punto es importantisimo seguir estudiando, actualizarse y por supuesto practicar. Por otra parte, el corazon y el ser autodidacta es importante que esten involucrados; en este medio nos podemos enfrentar a cosas que nos resulten muy sencillas y otras que requieren un poco mas de esfuerzo y de investigacion, en donde hay que ser perceberantes porque en ocasiones es necesario regresar al inicio para poder seguir avanzando. 
 
