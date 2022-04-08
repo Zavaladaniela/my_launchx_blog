@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Daniela Zavala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zavaladaniela.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 21:27:41 -0600</lastBuildDate><atom:link href="https://zavaladaniela.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://zavaladaniela.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Tue, 05 Apr 2022 21:27:41 -0600</pubDate>
+      
+      <guid>https://zavaladaniela.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Mi historia en cuanto al ámbito de la programación empezó a una edad muy temprana y desde entonces he conocido varias personas que solo se quedan como programadores y algunas otras que crecen hasta ser considerados desarrolladores. Creo (y por experiencia propia lo confirmo) que todo buen desarrollador nació de ser programador y para poder llegar hasta ese punto es importantísimo seguir estudiando, actualizarse y por supuesto practicar. Por otra parte, el corazón y el ser autodidacta es importante que estén involucrados; en este medio nos podemos enfrentar a cosas que nos resulten muy sencillas y otras que requieren un poco más de esfuerzo y de investigación, en donde hay que ser perseverantes porque en ocasiones es necesario regresar al inicio para poder seguir avanzando.</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje</title>
       <link>https://zavaladaniela.github.io/my_launchx_blog/posts/post_1/</link>
